@@ -1,0 +1,98 @@
+/* Main container */
+.watch-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f6f9;
+  min-height: 100vh;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  color: #222;
+}
+
+/* Grid layout */
+.watch-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 22px;
+  justify-items: center;
+}
+
+/* Card */
+.watch-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 15px;
+  width: 230px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.watch-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 18px rgba(0,0,0,0.15);
+}
+
+/* Image */
+.watch-img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+/* Text */
+.watch-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 8px 0;
+  color: #111;
+}
+
+.watch-brand {
+  font-size: 14px;
+  color: #666;
+  margin: 4px 0;
+}
+
+.watch-type {
+  font-size: 13px;
+  color: #888;
+  font-style: italic;
+}
+
+.watch-price {
+  font-size: 16px;
+  color: #0ea5a4;
+  font-weight: bold;
+  margin: 6px 0;
+}
+
+.watch-rating {
+  font-size: 14px;
+  color: #f59e0b;
+  margin-bottom: 10px;
+}
+
+/* Button */
+.btn-buy {
+  background: #0ea5a4;
+  color: #fff;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.2s ease;
+}
+
+.btn-buy:hover {
+  background: #0b8c8a;
+}

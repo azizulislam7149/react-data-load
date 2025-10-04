@@ -1,0 +1,28 @@
+div p {
+  background: #f8f8f8;         /* light gray background */
+  padding: 15px;
+  text-align: center;          /* center align text */
+  border-top: 1px solid #ddd;  /* subtle top border */
+  font-size: 14px;
+  color: #555;
+}
+
+div p small {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #777;
+}
+
+div p a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+div p a:hover {
+  color: #005fa3;  /* darker blue on hover */
+  text-decoration: underline;
+}

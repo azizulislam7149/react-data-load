@@ -1,0 +1,27 @@
+.post-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 16px;
+  max-width: 300px;
+  margin: 12px auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.08);
+  transition: all 0.3s ease-in-out;
+}
+
+.post-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+.post-card h3 {
+  color: #0f172a;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.post-card p {
+  margin: 4px 0;
+  color: #475569;
+  font-size: 0.95rem;
+}

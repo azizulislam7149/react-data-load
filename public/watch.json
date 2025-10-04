@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "brand": "Rolex",
+    "price": 9500,
+    "image": "https://picsum.photos/300/200?random=101",
+    "rating": 4.9,
+    "type": "Luxury"
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster",
+    "brand": "Omega",
+    "price": 7200,
+    "image": "https://picsum.photos/300/200?random=102",
+    "rating": 4.8,
+    "type": "Chronograph"
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "brand": "Tag Heuer",
+    "price": 4500,
+    "image": "https://picsum.photos/300/200?random=103",
+    "rating": 4.7,
+    "type": "Sports"
+  },
+  {
+    "id": 4,
+    "name": "Casio G-Shock",
+    "brand": "Casio",
+    "price": 150,
+    "image": "https://picsum.photos/300/200?random=104",
+    "rating": 4.5,
+    "type": "Digital"
+  },
+  {
+    "id": 5,
+    "name": "Seiko Prospex",
+    "brand": "Seiko",
+    "price": 1200,
+    "image": "https://picsum.photos/300/200?random=105",
+    "rating": 4.6,
+    "type": "Diver"
+  },
+  {
+    "id": 6,
+    "name": "Citizen Eco-Drive",
+    "brand": "Citizen",
+    "price": 500,
+    "image": "https://picsum.photos/300/200?random=106",
+    "rating": 4.4,
+    "type": "Solar"
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "price": 399,
+    "image": "https://picsum.photos/300/200?random=107",
+    "rating": 4.7,
+    "type": "Smartwatch"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "price": 349,
+    "image": "https://picsum.photos/300/200?random=108",
+    "rating": 4.6,
+    "type": "Smartwatch"
+  },
+  {
+    "id": 9,
+    "name": "Fossil Gen 6",
+    "brand": "Fossil",
+    "price": 299,
+    "image": "https://picsum.photos/300/200?random=109",
+    "rating": 4.3,
+    "type": "Hybrid"
+  },
+  {
+    "id": 10,
+    "name": "Garmin Forerunner 955",
+    "brand": "Garmin",
+    "price": 499,
+    "image": "https://picsum.photos/300/200?random=110",
+    "rating": 4.6,
+    "type": "Sports"
+  },
+  {
+    "id": 11,
+    "name": "Tissot PRX Powermatic 80",
+    "brand": "Tissot",
+    "price": 650,
+    "image": "https://picsum.photos/300/200?random=111",
+    "rating": 4.5,
+    "type": "Automatic"
+  },
+  {
+    "id": 12,
+    "name": "Hamilton Khaki Field",
+    "brand": "Hamilton",
+    "price": 850,
+    "image": "https://picsum.photos/300/200?random=112",
+    "rating": 4.6,
+    "type": "Field"
+  }
+]

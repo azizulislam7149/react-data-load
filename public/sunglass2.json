@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Ray-Ban Aviator Classic",
+    "price": 159,
+    "image": "https://picsum.photos/300/200?random=11",
+    "rating": 4.8,
+    "brand": "Ray-Ban"
+  },
+  {
+    "id": 2,
+    "name": "Oakley Holbrook",
+    "price": 129,
+    "image": "https://picsum.photos/300/200?random=12",
+    "rating": 4.7,
+    "brand": "Oakley"
+  },
+  {
+    "id": 3,
+    "name": "Gucci GG0061S",
+    "price": 299,
+    "image": "https://picsum.photos/300/200?random=13",
+    "rating": 4.9,
+    "brand": "Gucci"
+  },
+  {
+    "id": 4,
+    "name": "Prada Linea Rossa",
+    "price": 249,
+    "image": "https://picsum.photos/300/200?random=14",
+    "rating": 4.6,
+    "brand": "Prada"
+  },
+  {
+    "id": 5,
+    "name": "Persol PO0714",
+    "price": 179,
+    "image": "https://picsum.photos/300/200?random=15",
+    "rating": 4.7,
+    "brand": "Persol"
+  },
+  {
+    "id": 6,
+    "name": "Maui Jim Red Sands",
+    "price": 229,
+    "image": "https://picsum.photos/300/200?random=16",
+    "rating": 4.8,
+    "brand": "Maui Jim"
+  },
+  {
+    "id": 7,
+    "name": "Tom Ford FT0237",
+    "price": 349,
+    "image": "https://picsum.photos/300/200?random=17",
+    "rating": 4.9,
+    "brand": "Tom Ford"
+  },
+  {
+    "id": 8,
+    "name": "Carrera Champion",
+    "price": 139,
+    "image": "https://picsum.photos/300/200?random=18",
+    "rating": 4.5,
+    "brand": "Carrera"
+  },
+  {
+    "id": 9,
+    "name": "Versace VE2163",
+    "price": 279,
+    "image": "https://picsum.photos/300/200?random=19",
+    "rating": 4.7,
+    "brand": "Versace"
+  },
+  {
+    "id": 10,
+    "name": "Armani Exchange AX2012S",
+    "price": 119,
+    "image": "https://picsum.photos/300/200?random=20",
+    "rating": 4.6,
+    "brand": "Armani Exchange"
+  }
+]

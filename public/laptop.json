@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro 14\" M2",
+    "brand": "Apple",
+    "price": 1999,
+    "image": "https://picsum.photos/300/200?random=201",
+    "rating": 4.9,
+    "processor": "Apple M2 Pro",
+    "type": "Ultrabook"
+  },
+  {
+    "id": 2,
+    "name": "Dell XPS 13 Plus",
+    "brand": "Dell",
+    "price": 1499,
+    "image": "https://picsum.photos/300/200?random=202",
+    "rating": 4.7,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Ultrabook"
+  },
+  {
+    "id": 3,
+    "name": "HP Spectre x360 14",
+    "brand": "HP",
+    "price": 1399,
+    "image": "https://picsum.photos/300/200?random=203",
+    "rating": 4.6,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Convertible"
+  },
+  {
+    "id": 4,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "price": 1699,
+    "image": "https://picsum.photos/300/200?random=204",
+    "rating": 4.8,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Business"
+  },
+  {
+    "id": 5,
+    "name": "Asus ROG Zephyrus G14",
+    "brand": "Asus",
+    "price": 1799,
+    "image": "https://picsum.photos/300/200?random=205",
+    "rating": 4.7,
+    "processor": "AMD Ryzen 9 6900HS",
+    "type": "Gaming"
+  },
+  {
+    "id": 6,
+    "name": "Razer Blade 15",
+    "brand": "Razer",
+    "price": 2499,
+    "image": "https://picsum.photos/300/200?random=206",
+    "rating": 4.8,
+    "processor": "Intel Core i9 13th Gen",
+    "type": "Gaming"
+  },
+  {
+    "id": 7,
+    "name": "Microsoft Surface Laptop 5",
+    "brand": "Microsoft",
+    "price": 1299,
+    "image": "https://picsum.photos/300/200?random=207",
+    "rating": 4.5,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Ultrabook"
+  },
+  {
+    "id": 8,
+    "name": "Acer Predator Helios 300",
+    "brand": "Acer",
+    "price": 1599,
+    "image": "https://picsum.photos/300/200?random=208",
+    "rating": 4.6,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Gaming"
+  },
+  {
+    "id": 9,
+    "name": "MSI Stealth 15M",
+    "brand": "MSI",
+    "price": 1499,
+    "image": "https://picsum.photos/300/200?random=209",
+    "rating": 4.4,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Gaming"
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy Book3 Pro",
+    "brand": "Samsung",
+    "price": 1399,
+    "image": "https://picsum.photos/300/200?random=210",
+    "rating": 4.5,
+    "processor": "Intel Core i7 13th Gen",
+    "type": "Ultrabook"
+  },
+  {
+    "id": 11,
+    "name": "LG Gram 16",
+    "brand": "LG",
+    "price": 1599,
+    "image": "https://picsum.photos/300/200?random=211",
+    "rating": 4.6,
+    "processor": "Intel Core i7 12th Gen",
+    "type": "Lightweight"
+  },
+  {
+    "id": 12,
+    "name": "Huawei MateBook X Pro",
+    "brand": "Huawei",
+    "price": 1399,
+    "image": "https://picsum.photos/300/200?random=212",
+    "rating": 4.4,
+    "processor": "Intel Core i7 11th Gen",
+    "type": "Ultrabook"
+  }
+]
