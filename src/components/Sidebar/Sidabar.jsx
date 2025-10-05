@@ -6,12 +6,13 @@ const Sidabar = () => {
         <aside>
             <nav>
                 <NavLink to ="/visit">Visit</NavLink>
+               
                 <p>Contact Us</p>
                 <p>About</p>
                 <p>Portfolio</p>
                 <p>Gallery</p>
                 <p>History</p>
-                <p>Blog</p>
+                 <NavLink to ="/blogs" className='nav-link'>Blogs</NavLink>
                 <p>Information</p>
                 <p>Idea</p>
                 <p>Goal</p>

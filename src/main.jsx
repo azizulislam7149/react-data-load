@@ -17,6 +17,8 @@ import Youtube from "./components/Youtube/Youtube";
 import Users from "./components/Users/Users";
 import Users2 from "./components/Users2/Users2";
 import Gohome from "./components/Gohome/Gohome";
+import Blogs from "./components/Blogs/Blogs";
+import ShowDetails from "./components/Showdetails/ShowDetails";
 
 
 const usersLoadingdataPromise = fetch('https://jsonplaceholder.typicode.com/albums').then(res =>res.json());
@@ -64,15 +66,23 @@ const router = createBrowserRouter([
      loader: () => fetch("/home.json"),
      Component : Gohome
      
-    }
+    },
+      {
+    path : "/blogs",
+    loader : () => fetch('https://jsonplaceholder.typicode.com/users'),
+    Component : Blogs
+  },
+  {
+    path : "blogs/:userId",
+    loader : ({params})=> fetch(`https://jsonplaceholder.typicode.com/users/${params.userId}`),
+    Component : ShowDetails,
+
+  }
 
    ]
   },
  
-  {
-    path : "blogs",
-    element : <div>write your creative blogs</div>
-  },
+
   {
     path : "contact", 
     element : <div>Contact us</div>
